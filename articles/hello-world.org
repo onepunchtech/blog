@@ -1,9 +1,4 @@
-#+Author: Michael Whitehead
-#+Date: 2022-12-28
-#+CoverImage: ../images/world.jpeg
-#+Description: Want to know more about how Onepunch Technologies was started?
-
-* Hello World :history:
+* Hello World
 
 We are excited to announce our launch of our new company and website. We created Onepunch Technologies Inc. to increase the marginal utility of software engineering. What in the world does that mean?
 It means that we are not just aiming to be another dev shop. We are aiming to provide an order of magnitude of increased value to the world through software.

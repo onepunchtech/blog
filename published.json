@@ -1,5 +1,9 @@
 {
-  "published" : [
-    "hello-world"
-  ]
+  "published" : [{
+    "name" : "hello-world",
+    "date" : "2022-12-28",
+    "coverImage": "images/world.jpeg",
+    "description": "Want to know more about how Onepunch Technologies was started?",
+    "tags": ["history"]
+  }]
 }
