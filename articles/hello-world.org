@@ -17,7 +17,7 @@ A few years ago I would often find my self day dreaming about an app that could 
 Then I would think about the amount of effort, time, and or money it would require to build it.
 If I were to add up all the app ideas and try to work on them all, then I would have to spend a few lifetimes on them.
 I thought of trying to play the startup game, find some investors, raise a few million dollars, build a mediocre app, and hopefully after about ten miserable years have enough money from a pitiful exit to try and do it again.
-It was very tempting to buy into the game, but I decided to take a different approach.
+It was tempting to buy into the game, but I decided to take a different approach.
 
 I started to look at software the same way I would look at an investment.
 What is it about our current software practices that cause good returns? What causes a bad return?.
@@ -25,10 +25,10 @@ I poored over economic books to find any applicable insights.
 This is on top of all the technical books and papers I devoured.
 I soon found some insights by analyzing software the same way an economist analyzes a capital good.
 For example a tractor revolusionized the farming industry which led to many other advancements in our world.
-Looking at the world as it is today, what would be the next leap in technology? Where is the next tractor?
+Looking at the world as it is today, what would be the next leap in technology for software? Where is the next tractor?
 
 ** Onepunch Technologies is born
-It is hard for me to imagine a better name for what we are trying to accomplish.
+It is hard for me to imagine a better name for what we are trying to accomplish than Onepunch Technologies.
 We are looking to do two things. 1. defeat your software problems with a single punch and 2. when we defeat your software problems they stay defeated.
 We want to build software quickly, that is to say in one punch.
 But it isn't enough to build software quickly.
