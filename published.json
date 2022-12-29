@@ -4,6 +4,7 @@
     "title": "Hello World",
     "date" : "12-28-2022",
     "coverImage": "images/world.jpeg",
+    "imageAlt": "photo of the earth from space",
     "description": "Want to know about how Onepunch Technologies got it's start?",
     "tags": ["history"]
   }]
