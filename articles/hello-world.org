@@ -1,5 +1,5 @@
 #+Author: Michael Whitehead
-#+PublishDate: 2022-12-28
+#+Date: 2022-12-28
 #+CoverImage: ../images/world.jpeg
 #+Description: Want to know more about how Onepunch Technologies was started?
 
